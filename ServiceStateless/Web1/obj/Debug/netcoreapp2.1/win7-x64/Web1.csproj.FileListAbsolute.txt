@@ -1,0 +1,17 @@
+F:\JAVA\C#\ServiceStateless\Web1\obj\Debug\netcoreapp2.1\win7-x64\Web1.csproj.CoreCompileInputs.cache
+F:\JAVA\C#\ServiceStateless\Web1\obj\Debug\netcoreapp2.1\win7-x64\Web1.AssemblyInfoInputs.cache
+F:\JAVA\C#\ServiceStateless\Web1\obj\Debug\netcoreapp2.1\win7-x64\Web1.AssemblyInfo.cs
+F:\JAVA\C#\ServiceStateless\Web1\bin\Debug\netcoreapp2.1\win7-x64\hostpolicy.dll
+F:\JAVA\C#\ServiceStateless\Web1\bin\Debug\netcoreapp2.1\win7-x64\hostfxr.dll
+F:\JAVA\C#\ServiceStateless\Web1\bin\Debug\netcoreapp2.1\win7-x64\Web1.exe
+F:\JAVA\C#\ServiceStateless\Web1\bin\Debug\netcoreapp2.1\win7-x64\Web1.deps.json
+F:\JAVA\C#\ServiceStateless\Web1\bin\Debug\netcoreapp2.1\win7-x64\Web1.runtimeconfig.json
+F:\JAVA\C#\ServiceStateless\Web1\bin\Debug\netcoreapp2.1\win7-x64\Web1.runtimeconfig.dev.json
+F:\JAVA\C#\ServiceStateless\Web1\bin\Debug\netcoreapp2.1\win7-x64\Web1.dll
+F:\JAVA\C#\ServiceStateless\Web1\obj\Debug\netcoreapp2.1\win7-x64\Web1.csprojAssemblyReference.cache
+F:\JAVA\C#\ServiceStateless\Web1\obj\Debug\netcoreapp2.1\win7-x64\Web1.RazorAssemblyInfo.cache
+F:\JAVA\C#\ServiceStateless\Web1\obj\Debug\netcoreapp2.1\win7-x64\Web1.RazorAssemblyInfo.cs
+F:\JAVA\C#\ServiceStateless\Web1\obj\Debug\netcoreapp2.1\win7-x64\Web1.RazorTargetAssemblyInfo.cache
+F:\JAVA\C#\ServiceStateless\Web1\bin\Debug\netcoreapp2.1\win7-x64\Web1.pdb
+F:\JAVA\C#\ServiceStateless\Web1\obj\Debug\netcoreapp2.1\win7-x64\Web1.dll
+F:\JAVA\C#\ServiceStateless\Web1\obj\Debug\netcoreapp2.1\win7-x64\Web1.pdb
